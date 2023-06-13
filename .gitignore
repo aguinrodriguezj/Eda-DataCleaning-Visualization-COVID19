@@ -1,0 +1,10 @@
+# Carpetas que ignoramos
+data/time_series_covid19_confirmed_global.csv
+data/time_series_covid19_deaths_global.csv
+
+# Para eliminar del repositorio, pero no del local (Si hacemos commit y nos hemos olvidado del gitignore)
+#git rm -r --cached nombre_carpeta
+#git commit -m 'Eliminada carpeta nombre_carpeta del repo'
+
+# Archios que ignoramos
+#*.csv
